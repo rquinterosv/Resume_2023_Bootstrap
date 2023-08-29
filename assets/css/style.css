@@ -12,6 +12,8 @@ nav {
     background-color: #29335C;
 }
 
+/* Hero Section */
+
 .hero-section h1 {
     font-weight: 800;
     font-size: 30px;
@@ -23,7 +25,7 @@ nav {
     font-style: italic;
 }
 
-.hero-section p {
+.hero-section p, a {
     font-weight: 300;
     font-size: 18px;
 }
