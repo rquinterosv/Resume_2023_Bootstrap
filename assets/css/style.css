@@ -40,3 +40,21 @@ nav {
     margin-right: 10px;
     margin-top: 10px;
 }
+
+/* Experience Section */
+
+.experience {
+    background-color: #29335C;
+    color: white;
+    background-size: cover;
+}
+
+.experience h1{
+    font-weight: 800;
+}
+
+.experience p{
+    font-weight: 800;
+    font-style: italic;
+}
+
