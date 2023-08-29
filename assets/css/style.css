@@ -41,20 +41,34 @@ nav {
     margin-top: 10px;
 }
 
-/* Experience Section */
+/* Summary Section */
 
-.experience {
+.summary {
     background-color: #29335C;
     color: white;
     background-size: cover;
 }
 
-.experience h1{
+.summary h1{
     font-weight: 800;
 }
 
-.experience p{
+.summary p{
     font-weight: 800;
     font-style: italic;
 }
 
+/* Exerience section */
+
+.experience h1 {
+    font-weight: 800;
+}
+
+.experience h3, h5 {
+    font-weight: 500;
+}
+
+.experience p, li {
+    font-weight: 500;
+    font-style: italic;
+}
