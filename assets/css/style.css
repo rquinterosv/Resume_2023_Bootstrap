@@ -74,3 +74,15 @@ nav {
     font-weight: 500;
     font-style: italic;
 }
+
+/* Portfolio */
+/* Hero */
+
+.image-portfolio img {
+    border-radius: 20px;
+    align-items: center;
+}
+
+.tech-skills {
+    justify-content: start;
+}
